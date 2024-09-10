@@ -1,0 +1,4 @@
+[
+  {"item_id": "SKU123", "item_name": "burger", "quantity": 1, "price": 1.99},
+  {"item_id": "SKU124", "item_name": "bread", "quantity": 1, "price": 0.49}
+]
