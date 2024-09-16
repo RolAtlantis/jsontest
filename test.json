@@ -1,4 +1,19 @@
 [
   {"item_id": "SKU123", "item_name": "Total War Warhammer Dark Gods", "quantity": 1, "price": 20.99},
-  {"item_id": "SKU124", "item_name": "Grand Theft Auto 5", "quantity": 1, "price": 15.49}
+  {"item_id": "SKU124", "item_name": "Grand Theft Auto 5", "quantity": 1, "price": 15.49},
+  {"item_id": "SKU135", "item_name": "PlayStation Network Gift Card 75 USD – PSN United States", "quantity": 1, "price": 84.39},
+  {"item_id": "SKU138", "item_name": "PlayStation Network Gift Card 50 EUR – PSN Finland", "quantity": 1, "price": 54.59},
+  {"item_id": "SKU140", "item_name": "Nintendo eShop Gift Card 50 GBP – Nintendo Key – United Kingdom", "quantity": 1, "price": 73.69},
+  {"item_id": "SKU143", "item_name": "VALORANT Gift Card 25 EUR (PC) – Riot Key – EUROPE", "quantity": 1, "price": 34.09},
+  {"item_id": "SKU154", "item_name": "Amazon Gift Card 50 EUR – Spain", "quantity": 1, "price": 67.29},
+  {"item_id": "SKU167", "item_name": "Microsoft Windows 10 OEM Home Microsoft PC Key GLOBAL", "quantity": 1, "price": 9.69},
+  {"item_id": "SKU178", "item_name": "Microsoft Windows 8.1 OEM Professional Microsoft PC Key GLOBAL", "quantity": 1, "price": 11.90},
+  {"item_id": "SKU189", "item_name": "Microsoft Windows 7 OEM Professional Microsoft PC Key GLOBAL", "quantity": 1, "price": 8.90},
+  {"item_id": "SKU191", "item_name": "Minecraft Java Edition Minecraft Key GLOBAL", "quantity": 1, "price": 25.90},
+  {"item_id": "SKU202", "item_name": "Sniper Elite 4 Deluxe Edition Steam Key GLOBAL", "quantity": 1, "price": 8.89},
+  {"item_id": "SKU213", "item_name": "BlazBlue: Cross Tag Battle Steam Key GLOBAL", "quantity": 1, "price": 42.19},
+  {"item_id": "SKU224", "item_name": "Watch Dogs 2 (Xbox One) – Xbox Live Key – GLOBAL", "quantity": 1, "price": 53.29},
+  {"item_id": "SKU235", "item_name": "MARVEL’S AVENGERS | Endgame Edition (PC) – Steam Key – GLOBAL", "quantity": 1, "price": 36.39},
+  {"item_id": "SKU246", "item_name": "Darkest Dungeon: Ancestral Edition Steam Key GLOBAL", "quantity": 1, "price": 9.29},
+  {"item_id": "SKU246", "item_name": "Conan Exiles Steam Key GLOBAL", "quantity": 1, "price": 14.29},
 ]
